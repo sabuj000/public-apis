@@ -6,7 +6,7 @@ A public API for this project can be found [here](https://github.com/davemachado
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
-Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.<a href="https://www.google.com" target="_blank">Google</a> it for more information.
+Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment. [Google](https://www.google.com){:target="_blank" rel="noopener"}
 
 ## Index
 
